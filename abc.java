@@ -1,0 +1,7 @@
+esdfjlk;lcrxfnliutb.mjb.kb.kbkub.kbjylluyygkhtdhed
+mkdir Test
+cd Test
+notepad abc.java
+git init
+git status
+abc.java(UNTRACKED files)
